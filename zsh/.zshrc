@@ -113,7 +113,6 @@ source $ZSH/oh-my-zsh.sh
 alias neofetch="fastfetch"
 alias ls="exa -l"
 
-
 #docker
 alias dockstart='sudo systemctl start docker'
 alias dockstop='sudo systemctl stop docker.socket && sudo systemctl stop docker'
